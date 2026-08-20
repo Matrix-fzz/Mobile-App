@@ -1,0 +1,1106 @@
+{
+  "properties": [
+    {
+      "property_id": 1,
+      "title": "Riad Andalou",
+      "description": "Traditional riad in the heart of Marrakech medina.",
+      "typeaddress": "Derb el Horra",
+      "city": "Marrakech",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "latitude": "31.629500",
+      "longitude": "-7.981100",
+      "price": "1800000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 250,
+      "number_of_rooms": 6,
+      "bathrooms": 3,
+      "construction_year": 1920,
+      "owner_id": 2,
+      "category_id": 5
+    },
+    {
+      "property_id": 2,
+      "title": "Villa Marina",
+      "description": "Modern villa with ocean view in Casablanca.",
+      "typeaddress": "Ain Diab",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "latitude": "33.573100",
+      "longitude": "-7.589800",
+      "price": "3200000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 400,
+      "number_of_rooms": 4,
+      "bathrooms": 2,
+      "construction_year": 2018,
+      "owner_id": 3,
+      "category_id": 2
+    },
+    {
+      "property_id": 3,
+      "title": "Dar Sahara",
+      "description": "Eco-friendly retreat on the edge of the desert.",
+      "typeaddress": "Route de Zagora",
+      "city": "Ouarzazate",
+      "region": "Drâa-Tafilalet",
+      "country": "Morocco",
+      "latitude": "30.933500",
+      "longitude": "-6.937000",
+      "price": "950000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 180,
+      "number_of_rooms": 3,
+      "bathrooms": 2,
+      "construction_year": 2005,
+      "owner_id": 6,
+      "category_id": 1
+    },
+    {
+      "property_id": 4,
+      "title": "Kasbah Toubkal",
+      "description": "Historic kasbah with mountain views.",
+      "typeaddress": "Imlil Village",
+      "city": "Al Haouz",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "latitude": "31.133300",
+      "longitude": "-7.917200",
+      "price": "2100000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 300,
+      "number_of_rooms": 5,
+      "bathrooms": 4,
+      "construction_year": 1890,
+      "owner_id": 2,
+      "category_id": 16
+    },
+    {
+      "property_id": 5,
+      "title": "Palais Zayane",
+      "description": "Luxurious palace with traditional Moroccan decor.",
+      "typeaddress": "Rue El Makhfi",
+      "city": "Meknes",
+      "region": "Fès-Meknès",
+      "country": "Morocco",
+      "latitude": "33.883300",
+      "longitude": "-5.550000",
+      "price": "4500000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 600,
+      "number_of_rooms": 10,
+      "bathrooms": 5,
+      "construction_year": 1912,
+      "owner_id": 3,
+      "category_id": 3
+    },
+    {
+      "property_id": 6,
+      "title": "Ocean Breeze Studio",
+      "description": "Compact studio near Rabat’s beachfront.",
+      "typeaddress": "Avenue Hassan II",
+      "city": "Rabat",
+      "region": "Rabat-Salé-Kénitra",
+      "country": "Morocco",
+      "latitude": "34.020900",
+      "longitude": "-6.841600",
+      "price": "750000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 55,
+      "number_of_rooms": 1,
+      "bathrooms": 1,
+      "construction_year": 2021,
+      "owner_id": 4,
+      "category_id": 6
+    },
+    {
+      "property_id": 7,
+      "title": "Atlas Heights Villa",
+      "description": "Contemporary villa with panoramic mountain views.",
+      "typeaddress": "Targa Nord",
+      "city": "Marrakech",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "latitude": "31.634200",
+      "longitude": "-8.008700",
+      "price": "2800000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 450,
+      "number_of_rooms": 5,
+      "bathrooms": 3,
+      "construction_year": 2015,
+      "owner_id": 5,
+      "category_id": 2
+    },
+    {
+      "property_id": 8,
+      "title": "Berber Hideout",
+      "description": "Rustic home deep in the Rif mountains.",
+      "typeaddress": "Douar Ijarmaouas",
+      "city": "Chefchaouen",
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "country": "Morocco",
+      "latitude": "35.170900",
+      "longitude": "-5.269600",
+      "price": "670000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 120,
+      "number_of_rooms": 2,
+      "bathrooms": 1,
+      "construction_year": 1975,
+      "owner_id": 6,
+      "category_id": 11
+    },
+    {
+      "property_id": 9,
+      "title": "Villa Des Dunes",
+      "description": "Elegant villa nestled in the Agadir hills.",
+      "typeaddress": "Quartier Founty",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "country": "Morocco",
+      "latitude": "30.406500",
+      "longitude": "-9.565500",
+      "price": "3200000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 390,
+      "number_of_rooms": 4,
+      "bathrooms": 2,
+      "construction_year": 2019,
+      "owner_id": 2,
+      "category_id": 2
+    },
+    {
+      "property_id": 10,
+      "title": "Medina Pearl",
+      "description": "Restored riad with mosaic courtyard.",
+      "typeaddress": "Rue Mouassine",
+      "city": "Marrakech",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "latitude": "31.628700",
+      "longitude": "-7.991300",
+      "price": "1650000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 230,
+      "number_of_rooms": 6,
+      "bathrooms": 3,
+      "construction_year": 1932,
+      "owner_id": 4,
+      "category_id": 5
+    },
+    {
+      "property_id": 11,
+      "title": "Zellige Loft",
+      "description": "Art deco loft ideal for creatives.",
+      "typeaddress": "Boulevard Zerktouni",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "latitude": "33.589900",
+      "longitude": "-7.624400",
+      "price": "980000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 95,
+      "number_of_rooms": 2,
+      "bathrooms": 1,
+      "construction_year": 2016,
+      "owner_id": 3,
+      "category_id": 6
+    },
+    {
+      "property_id": 12,
+      "title": "Rif Horizon",
+      "description": "Secluded retreat with ocean sunset views.",
+      "typeaddress": "Route Fnideq",
+      "city": "Tetouan",
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "country": "Morocco",
+      "latitude": "35.578500",
+      "longitude": "-5.364200",
+      "price": "2400000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 350,
+      "number_of_rooms": 4,
+      "bathrooms": 3,
+      "construction_year": 2010,
+      "owner_id": 5,
+      "category_id": 2
+    },
+    {
+      "property_id": 13,
+      "title": "Castle of Sidi Yahya",
+      "description": "A fortress-like residence with panoramic views over the Rif valley.",
+      "typeaddress": "Route Sidi Yahya",
+      "city": "Chefchaouen",
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "country": "Morocco",
+      "latitude": "35.171000",
+      "longitude": "-5.261000",
+      "price": "5200000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 850,
+      "number_of_rooms": 12,
+      "bathrooms": 6,
+      "construction_year": 1870,
+      "owner_id": 2,
+      "category_id": 3
+    },
+    {
+      "property_id": 14,
+      "title": "Fort Almas",
+      "description": "Stone-built castle featuring antique woodwork and private gardens.",
+      "typeaddress": "Oued Almas Road",
+      "city": "Taza",
+      "region": "Fès-Meknès",
+      "country": "Morocco",
+      "latitude": "34.213700",
+      "longitude": "-4.008500",
+      "price": "4700000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 760,
+      "number_of_rooms": 10,
+      "bathrooms": 5,
+      "construction_year": 1895,
+      "owner_id": 3,
+      "category_id": 3
+    },
+    {
+      "property_id": 15,
+      "title": "Zayane Citadel",
+      "description": "A regal citadel near Khenifra, surrounded by cedar forests.",
+      "typeaddress": "Kasbah Zayane",
+      "city": "Khenifra",
+      "region": "Beni Mellal-Khénifra",
+      "country": "Morocco",
+      "latitude": "32.934300",
+      "longitude": "-5.661000",
+      "price": "4900000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 900,
+      "number_of_rooms": 11,
+      "bathrooms": 5,
+      "construction_year": 1908,
+      "owner_id": 1,
+      "category_id": 3
+    },
+    {
+      "property_id": 16,
+      "title": "Mirage Fortress",
+      "description": "Hidden castle on the edge of the Sahara, featuring Berber motifs and high towers.",
+      "typeaddress": "Route Erfoud",
+      "city": "Errachidia",
+      "region": "Drâa-Tafilalet",
+      "country": "Morocco",
+      "latitude": "31.435900",
+      "longitude": "-4.216100",
+      "price": "5800000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 1000,
+      "number_of_rooms": 14,
+      "bathrooms": 7,
+      "construction_year": 1925,
+      "owner_id": 4,
+      "category_id": 3
+    },
+    {
+      "property_id": 17,
+      "title": "Kasbah El Fna",
+      "description": "Historic kasbah renovated into a luxury castle with rooftop views.",
+      "typeaddress": "Rue Bab Doukkala",
+      "city": "Marrakech",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "latitude": "31.632100",
+      "longitude": "-7.994800",
+      "price": "5300000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 820,
+      "number_of_rooms": 9,
+      "bathrooms": 4,
+      "construction_year": 1885,
+      "owner_id": 5,
+      "category_id": 3
+    },
+    {
+      "property_id": 18,
+      "title": "Studio Corniche",
+      "description": "Modern beachfront studio with sea view.",
+      "typeaddress": "Avenue de la Corniche",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "latitude": "33.597200",
+      "longitude": "-7.629400",
+      "price": "850000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 60,
+      "number_of_rooms": 1,
+      "bathrooms": 1,
+      "construction_year": 2020,
+      "owner_id": 7,
+      "category_id": 6
+    },
+    {
+      "property_id": 19,
+      "title": "Medina Nest",
+      "description": "Cozy studio nestled in Marrakech’s old town.",
+      "typeaddress": "Derb Dabachi",
+      "city": "Marrakech",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "latitude": "31.627500",
+      "longitude": "-7.989400",
+      "price": "600000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 45,
+      "number_of_rooms": 1,
+      "bathrooms": 1,
+      "construction_year": 2015,
+      "owner_id": 8,
+      "category_id": 6
+    },
+    {
+      "property_id": 20,
+      "title": "Atlas View Studio",
+      "description": "Minimalist studio with mountain views and open-plan layout.",
+      "typeaddress": "Avenue Allal Fassi",
+      "city": "Fez",
+      "region": "Fès-Meknès",
+      "country": "Morocco",
+      "latitude": "34.037300",
+      "longitude": "-4.999800",
+      "price": "720000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 55,
+      "number_of_rooms": 1,
+      "bathrooms": 1,
+      "construction_year": 2018,
+      "owner_id": 9,
+      "category_id": 6
+    },
+    {
+      "property_id": 41,
+      "title": "Oasis Loft",
+      "description": "Stylish studio with terrace and desert design touches.",
+      "typeaddress": "Quartier Hay El Mohammadi",
+      "city": "Ouarzazate",
+      "region": "Drâa-Tafilalet",
+      "country": "Morocco",
+      "latitude": "30.933000",
+      "longitude": "-6.934400",
+      "price": "680000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 50,
+      "number_of_rooms": 1,
+      "bathrooms": 1,
+      "construction_year": 2017,
+      "owner_id": 10,
+      "category_id": 6
+    },
+    {
+      "property_id": 42,
+      "title": "Studio Zen",
+      "description": "Quiet urban studio ideal for freelancers and students.",
+      "typeaddress": "Rue Ibn Sina",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "country": "Morocco",
+      "latitude": "30.407300",
+      "longitude": "-9.569100",
+      "price": "500000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 40,
+      "number_of_rooms": 1,
+      "bathrooms": 1,
+      "construction_year": 2019,
+      "owner_id": 11,
+      "category_id": 6
+    },
+    {
+      "property_id": 43,
+      "title": "Villa Serenity",
+      "description": "Secluded villa with private pool and lush gardens.",
+      "typeaddress": "Route de Tahanaout",
+      "city": "Marrakech",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "latitude": "31.545000",
+      "longitude": "-8.022200",
+      "price": "3600000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 420,
+      "number_of_rooms": 5,
+      "bathrooms": 3,
+      "construction_year": 2016,
+      "owner_id": 11,
+      "category_id": 2
+    },
+    {
+      "property_id": 44,
+      "title": "Palm Bay Villa",
+      "description": "Coastal villa with panoramic sea views and rooftop lounge.",
+      "typeaddress": "Boulevard de la Corniche",
+      "city": "Tangier",
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "country": "Morocco",
+      "latitude": "35.780600",
+      "longitude": "-5.813700",
+      "price": "4400000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 480,
+      "number_of_rooms": 6,
+      "bathrooms": 4,
+      "construction_year": 2020,
+      "owner_id": 9,
+      "category_id": 2
+    },
+    {
+      "property_id": 45,
+      "title": "Villa Noor",
+      "description": "Elegant villa in Rabat with marble floors and vaulted ceilings.",
+      "typeaddress": "Quartier Souissi",
+      "city": "Rabat",
+      "region": "Rabat-Salé-Kénitra",
+      "country": "Morocco",
+      "latitude": "34.022700",
+      "longitude": "-6.845600",
+      "price": "4100000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 390,
+      "number_of_rooms": 4,
+      "bathrooms": 3,
+      "construction_year": 2018,
+      "owner_id": 6,
+      "category_id": 2
+    },
+    {
+      "property_id": 46,
+      "title": "High Atlas Villa",
+      "description": "Modern villa at the foot of the Atlas Mountains, offering majestic views.",
+      "typeaddress": "Ifrane Centre",
+      "city": "Ifrane",
+      "region": "Fès-Meknès",
+      "country": "Morocco",
+      "latitude": "33.528400",
+      "longitude": "-5.103900",
+      "price": "3000000.00",
+      "status": "available",
+      "purpose": "sale",
+      "area_meters": 350,
+      "number_of_rooms": 4,
+      "bathrooms": 2,
+      "construction_year": 2019,
+      "owner_id": 7,
+      "category_id": 2
+    },
+    {
+      "property_id": 47,
+      "title": "Villa des Palmiers",
+      "description": "Tropical-style villa in Agadir surrounded by palm groves.",
+      "typeaddress": "Cité Founty",
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "country": "Morocco",
+      "latitude": "30.406900",
+      "longitude": "-9.561600",
+      "price": "3800000.00",
+      "status": "available",
+      "purpose": "rent",
+      "area_meters": 400,
+      "number_of_rooms": 5,
+      "bathrooms": 3,
+      "construction_year": 2017,
+      "owner_id": 5,
+      "category_id": 2
+    }
+  ],
+  "property_media": [
+    {
+      "media_id": 1,
+      "property_id": 1,
+      "file_url": "https://images.pexels.com/photos/3889843/pexels-photo-3889843.jpeg?_gl=1*1kg13s8*_ga*MTA1MDAwOTE1NS4xNzUzMDQ1NzIx*_ga_8JE65Q40S6*czE3NTMwNDU3MjEkbzEkZzEkdDE3NTMwNDYyNDMkajEyJGwwJGgw",
+      "media_type": "image",
+      "is_primary": true
+    },
+    {
+      "media_id": 2,
+      "property_id": 2,
+      "file_url": "https://images.pexels.com/photos/53610/large-home-residential-house-architecture-53610.jpeg?_gl=1*cxk4en*_ga*MTA1MDAwOTE1NS4xNzUzMDQ1NzIx*_ga_8JE65Q40S6*czE3NTMwNDU3MjEkbzEkZzEkdDE3NTMwNDU3NzMkajgkbDAkaDA.",
+      "media_type": "image",
+      "is_primary": false
+    },
+    {
+      "media_id": 3,
+      "property_id": 3,
+      "file_url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?_gl=1*15pevp*_ga*MTA1MDAwOTE1NS4xNzUzMDQ1NzIx*_ga_8JE65Q40S6*czE3NTMwNDU3MjEkbzEkZzEkdDE3NTMwNDY1NDkkajU2JGwwJGgw",
+      "media_type": "image",
+      "is_primary": true
+    },
+    {
+      "media_id": 4,
+      "property_id": 4,
+      "file_url": "https://images.pexels.com/photos/6769006/pexels-photo-6769006.jpeg?_gl=1*1hlkipm*_ga*MTA1MDAwOTE1NS4xNzUzMDQ1NzIx*_ga_8JE65Q40S6*czE3NTMwNDg3NDIkbzIkZzEkdDE3NTMwNDg3ODAkajIyJGwwJGgw",
+      "media_type": "image",
+      "is_primary": false
+    },
+    {
+      "media_id": 5,
+      "property_id": 5,
+      "file_url": "https://images.pexels.com/photos/34223/mont-saint-michel-france-normandy-europe.jpg?_gl=1*oytigh*_ga*MTA1MDAwOTE1NS4xNzUzMDQ1NzIx*_ga_8JE65Q40S6*czE3NTMwNDg3NDIkbzIkZzEkdDE3NTMwNDg5NzAkajM0JGwwJGgw",
+      "media_type": "image",
+      "is_primary": false
+    },
+    {
+      "media_id": 6,
+      "property_id": 6,
+      "file_url": "https://th.bing.com/th/id/R.e321a4c3c050cb75d7faea9191b4d545?rik=%2bSpGlg0RxC7f5A&riu=http%3a%2f%2fnld.com.pl%2ffreshview%2fwp-content%2fuploads%2f2016%2f10%2fstudio_nieustraszeni_DSC_5572-Edit.jpg&ehk=UUJsyukwPRD61lwjV9YVRkVc5nsgwJGkry3KqerLJtQ%3d&risl=&pid=ImgRaw&r=0",
+      "media_type": "image",
+      "is_primary": false
+    },
+    {
+      "media_id": 7,
+      "property_id": 7,
+      "file_url": "https://cdn.pixabay.com/photo/2021/07/21/07/17/villa-6482429_1280.jpg",
+      "media_type": "image",
+      "is_primary": false
+    },
+    {
+      "media_id": 8,
+      "property_id": 8,
+      "file_url": "https://cdn.pixabay.com/photo/2018/02/17/19/50/wood-3160743_1280.jpg",
+      "media_type": "image",
+      "is_primary": false
+    },
+    {
+      "media_id": 9,
+      "property_id": 9,
+      "file_url": "https://cdn.pixabay.com/photo/2019/10/17/02/39/villa-4555824_1280.jpg",
+      "media_type": "image",
+      "is_primary": false
+    },
+    {
+      "media_id": 10,
+      "property_id": 10,
+      "file_url": "https://th.bing.com/th/id/R.89b71182dad437a1ca24914485170da0?rik=FL4AKjxv%2bqZegg&pid=ImgRaw&r=0",
+      "media_type": "image",
+      "is_primary": false
+    }
+  ],
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Houses"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Villa"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Castles"
+    },
+    {
+      "category_id": 4,
+      "category_name": "Apartments"
+    },
+    {
+      "category_id": 5,
+      "category_name": "Riads"
+    },
+    {
+      "category_id": 6,
+      "category_name": "Studios"
+    },
+    {
+      "category_id": 7,
+      "category_name": "Offices"
+    },
+    {
+      "category_id": 8,
+      "category_name": "Commercials"
+    },
+    {
+      "category_id": 9,
+      "category_name": "Land Plots"
+    },
+    {
+      "category_id": 10,
+      "category_name": "Townhouses"
+    },
+    {
+      "category_id": 11,
+      "category_name": "Farmhouses"
+    },
+    {
+      "category_id": 12,
+      "category_name": "Penthouses"
+    },
+    {
+      "category_id": 13,
+      "category_name": "Retail Spaces"
+    },
+    {
+      "category_id": 14,
+      "category_name": "Warehouses"
+    },
+    {
+      "category_id": 15,
+      "category_name": "Industrials"
+    },
+    {
+      "category_id": 16,
+      "category_name": "Kasbahs"
+    }
+  ],
+  "features": [
+    {
+      "features_id": 1,
+      "title": "Swimming Pool",
+      "status": "enabled",
+      "icon_url": "/swimming-pool.png"
+    },
+    {
+      "features_id": 2,
+      "title": "Terrace",
+      "status": "enabled",
+      "icon_url": "/terrace.png"
+    },
+    {
+      "features_id": 3,
+      "title": "garden",
+      "status": "enabled",
+      "icon_url": "/flowers.png"
+    },
+    {
+      "features_id": 4,
+      "title": "Balcony",
+      "status": "enabled",
+      "icon_url": "/balcony.png"
+    },
+    {
+      "features_id": 5,
+      "title": "Air Conditionerone",
+      "status": "enabled",
+      "icon_url": "/airconditionerone.png"
+    },
+    {
+      "features_id": 6,
+      "title": "Heater",
+      "status": "enabled",
+      "icon_url": "/hot.png"
+    },
+    {
+      "features_id": 7,
+      "title": "Chimney",
+      "status": "enabled",
+      "icon_url": "/chimney.png"
+    },
+    {
+      "features_id": 8,
+      "title": "Hammam",
+      "status": "enabled",
+      "icon_url": "/bathone.png"
+    },
+    {
+      "features_id": 9,
+      "title": "Sauna",
+      "status": "enabled",
+      "icon_url": "/sauna.png"
+    },
+    {
+      "features_id": 10,
+      "title": "Jacuzzi",
+      "status": "enabled",
+      "icon_url": "/jacuzzi.png"
+    },
+    {
+      "features_id": 11,
+      "title": "Internet Fibre",
+      "status": "enabled",
+      "icon_url": "/optical-fiber.png"
+    },
+    {
+      "features_id": 12,
+      "title": "Security 24h",
+      "status": "enabled",
+      "icon_url": "/shield.png"
+    },
+    {
+      "features_id": 13,
+      "title": "Elevetor",
+      "status": "enabled",
+      "icon_url": "/transport.png"
+    },
+    {
+      "features_id": 14,
+      "title": "Garage",
+      "status": "enabled",
+      "icon_url": "/garage.png"
+    },
+    {
+      "features_id": 15,
+      "title": "Parking",
+      "status": "enabled",
+      "icon_url": "/parking.png"
+    },
+    {
+      "features_id": 16,
+      "title": "Style Marocain",
+      "status": "enabled",
+      "icon_url": "/morocco.png"
+    },
+    {
+      "features_id": 17,
+      "title": "Furnished",
+      "status": "enabled",
+      "icon_url": "/apartmentone.png"
+    },
+    {
+      "features_id": 18,
+      "title": "Renovation",
+      "status": "enabled",
+      "icon_url": "/renovation.png"
+    }
+  ],
+  "property_features": [
+    {
+      "property_id": 1,
+      "features_id": 1
+    },
+    {
+      "property_id": 1,
+      "features_id": 2
+    },
+    {
+      "property_id": 1,
+      "features_id": 3
+    },
+    {
+      "property_id": 1,
+      "features_id": 8
+    },
+    {
+      "property_id": 1,
+      "features_id": 9
+    },
+    {
+      "property_id": 1,
+      "features_id": 11
+    },
+    {
+      "property_id": 1,
+      "features_id": 12
+    },
+    {
+      "property_id": 1,
+      "features_id": 15
+    },
+    {
+      "property_id": 2,
+      "features_id": 1
+    },
+    {
+      "property_id": 2,
+      "features_id": 3
+    },
+    {
+      "property_id": 2,
+      "features_id": 4
+    },
+    {
+      "property_id": 2,
+      "features_id": 5
+    },
+    {
+      "property_id": 2,
+      "features_id": 6
+    },
+    {
+      "property_id": 2,
+      "features_id": 7
+    },
+    {
+      "property_id": 2,
+      "features_id": 9
+    },
+    {
+      "property_id": 2,
+      "features_id": 10
+    },
+    {
+      "property_id": 2,
+      "features_id": 11
+    },
+    {
+      "property_id": 2,
+      "features_id": 12
+    },
+    {
+      "property_id": 2,
+      "features_id": 14
+    },
+    {
+      "property_id": 2,
+      "features_id": 16
+    }
+  ],
+  "users": [
+    {
+      "user_id": 1,
+      "fullname": "matrix fed",
+      "email": "mohamed@propriete.ma",
+      "password": "mohamed123",
+      "role": "admin",
+      "profile_photo": "mohamed.png",
+      "verified": true,
+      "status": "online",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 2,
+      "fullname": "chahd Tahour",
+      "email": "shahd@example.ma",
+      "password": "#chahd456",
+      "role": "agent",
+      "profile_photo": "chahd.jpg",
+      "verified": true,
+      "status": "online",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 3,
+      "fullname": "karim karaman",
+      "email": "karim@propriete.ma",
+      "password": "karim789",
+      "role": "client",
+      "profile_photo": "karim.png",
+      "verified": true,
+      "status": "online",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 4,
+      "fullname": "yahya yahyawi",
+      "email": "yahya@gmail.com",
+      "password": "yahya159",
+      "role": "visitor",
+      "profile_photo": "yahya_profile.png",
+      "verified": false,
+      "status": "online",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 5,
+      "fullname": "omar oamari",
+      "email": "omar@gmail.com",
+      "password": "omar123",
+      "role": "owner",
+      "profile_photo": "omar.png",
+      "verified": true,
+      "status": "online",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 6,
+      "fullname": " amal amali",
+      "email": "amalgmail.com",
+      "password": "amal456",
+      "role": "owner",
+      "profile_photo": "amal.png",
+      "verified": false,
+      "status": "offline",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 7,
+      "fullname": "layla laylawi",
+      "email": "layla@propriete.ma",
+      "password": "layla789",
+      "role": "client",
+      "profile_photo": "layla.png",
+      "verified": false,
+      "status": "offline",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 8,
+      "fullname": "youssef youssofi",
+      "email": "youssef@propriete.ma",
+      "password": "youssef321",
+      "role": "agent",
+      "profile_photo": "youssef.jpg",
+      "verified": false,
+      "status": "offline",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 9,
+      "fullname": "amina amani",
+      "email": "amina@propriete.ma",
+      "password": "amina654",
+      "role": "admin",
+      "profile_photo": "amina.png",
+      "verified": false,
+      "status": "offline",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 10,
+      "fullname": "nabil naboli",
+      "email": "nabil@propriete.ma",
+      "password": "nabil999",
+      "role": "client",
+      "profile_photo": "nabil.jpg",
+      "verified": false,
+      "status": "offline",
+      "last_seen": "2025-08-28T09:30:00Z"
+    },
+    {
+      "user_id": 11,
+      "fullname": "sara sarawi",
+      "email": "sara@propriete.ma",
+      "password": "sara111",
+      "role": "agent",
+      "profile_photo": "sara.png",
+      "verified": false,
+      "status": "offline",
+      "last_seen": "2025-08-28T09:30:00Z"
+    }
+  ],
+  "activities": [
+    {
+      "activity_id": 1,
+      "user_id": 3,
+      "type": "new_message",
+      "is_read": false,
+      "created_at": "2025-08-24T10:30:00.000Z",
+      "content_params": {
+        "senderName": "Omar (Propriétaire)",
+        "lastMessage": "Salam Karim, bghit nchouf l'appartement 3afak..."
+      },
+      "related_entity_type": "MessageThread",
+      "related_entity_id": 101
+    },
+    {
+      "activity_id": 2,
+      "user_id": 7,
+      "type": "price_drop",
+      "is_read": false,
+      "created_at": "2025-08-24T09:15:00.000Z",
+      "content_params": {
+        "propertyName": "فيلا فاخرة في الهرهورة",
+        "newPrice": "2,450,000"
+      },
+      "related_entity_type": "Property",
+      "related_entity_id": 205
+    },
+    {
+      "activity_id": 3,
+      "user_id": 4,
+      "type": "new_listing_match",
+      "is_read": true,
+      "created_at": "2025-08-23T18:00:00.000Z",
+      "content_params": {
+        "city": "الرباط"
+      },
+      "related_entity_type": "Search",
+      "related_entity_id": 301
+    },
+    {
+      "activity_id": 4,
+      "user_id": 2,
+      "type": "task_complete_profile",
+      "is_read": true,
+      "created_at": "2025-08-22T11:00:00.000Z",
+      "content_params": {
+        "completionPercentage": 70
+      },
+      "related_entity_type": "Profile",
+      "related_entity_id": null
+    },
+    {
+      "activity_id": 5,
+      "user_id": 10,
+      "type": "new_message",
+      "is_read": true,
+      "created_at": "2025-08-21T15:45:00.000Z",
+      "content_params": {
+        "senderName": "Sara (Agent)",
+        "lastMessage": "Wach ba9i intéressé b l'offre?"
+      },
+      "related_entity_type": "MessageThread",
+      "related_entity_id": 102
+    },
+    {
+      "activity_id": 6,
+      "user_id": 5,
+      "type": "visit_request",
+      "is_read": false,
+      "created_at": "2025-08-24T11:00:00.000Z",
+      "content_params": {
+        "userName": "Layla",
+        "propertyName": "شقة في أكدال"
+      },
+      "related_entity_type": "Property",
+      "related_entity_id": 210
+    },
+    {
+      "activity_id": 7,
+      "user_id": 1,
+      "type": "weekly_report",
+      "is_read": true,
+      "created_at": "2025-08-20T08:00:00.000Z",
+      "content_params": {
+        "newUsers": 15,
+        "newProperties": 7
+      },
+      "related_entity_type": "Dashboard",
+      "related_entity_id": null
+    }
+  ],
+  "messages": [
+    {
+      "id": "m1",
+      "sender_id": "1",
+      "receiver_id": "2",
+      "text": "Salam chahd, kif dayra?",
+      "created_at": "2025-08-28T10:05:00Z",
+      "read": true
+    },
+    {
+      "id": "m2",
+      "sender_id": "2",
+      "receiver_id": "1",
+      "text": "Labas matrix, shukran!",
+      "created_at": "2025-08-28T10:06:00Z",
+      "read": false
+    }
+  ]
+}
